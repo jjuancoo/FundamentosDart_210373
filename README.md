@@ -10,7 +10,7 @@ por el M.T.I Marco A. Ramírez Hernández
 |No. |Nombre|Potenciador|Estatus|
 |--|--|--|--|
 |1|Metodogia de Evaluación de la Asignatura|1|Finalizada|
-|2|Instalación y Configuración del Entorno de Desarrolli de Flutter/Dart|23|Activa|
+|2|Instalación y Configuración del Entorno de Desarrolli de Flutter/Dart|23|Finalizada|
 |3|Hola Mundo desde Dart|10|Finalizada|
 |4|Tipos de Datos en Dart|5|Finalizada|
 |5|Tipos de Dato Dinamico|5|Finalizada|
