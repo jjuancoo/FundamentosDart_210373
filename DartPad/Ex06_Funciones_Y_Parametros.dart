@@ -51,8 +51,6 @@ print("-------------------------------------------");
 // 4.2 solo enviando el obligatorio
   print(greetHourOfDay2("Juanco", null));
   print("Hora: $hora");
-
-
   print("----------------------------------------------------");
     print("---- Funciones Lambda ---- ");
 // 5. funciones LAMBDA - Las funciuones lambda, mejor conocidas como funciones anonimas o funciones 
@@ -73,8 +71,6 @@ print("""
     Descuento ${descuento}
     ------------------------------------------------------
     Costo del Carrito de Compras: ${calcularCosto(cantidadProducto, precioProducto, descuento)}""");
-
-
   print("----------------------------------------------------");
     print("---- Parametos Nombrados ---- ");
 // 6 Funciones con parametros Nombrados
@@ -162,13 +158,10 @@ String greetHourOfDay2(String name, int? hora){
   else{
     saludo = "Buenas noches";
   }
-
   return "${saludo}, ${name}";
-
 }  
 
 //? 5. Funciones con parametros Nombrados
-
 String infoCarListStatus({
   required String buyerName,
   double amounutCarList = 0.0,
