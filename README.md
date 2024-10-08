@@ -20,7 +20,8 @@ por el M.T.I Marco A. Ramírez Hernández
 |9|Clases y Sobreescritura de Métodos Nativos|9|Finalizada|
 |10|Constructores Nombrados|8|Finalizada|
 |11|Getters (lectura controlada) y Setters(Modificación controlada)|9|Finalizada|
-|12|Aserciones|3|Activa|
+|12|Clases abstractas|11|Activa|
+|13|Aserciones|3|Activa|
 
 ## LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
