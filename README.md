@@ -21,9 +21,10 @@ por el M.T.I Marco A. Ramírez Hernández
 |10|Constructores Nombrados|8|Finalizada|
 |11|Getters (lectura controlada) y Setters(Modificación controlada)|9|Finalizada|
 |12|Clases abstractas|11|Finalizada|
-|Tarea 04|Uso de las Clases Abstractas en el caso de estudio|10|Activa|
-|13|Aserciones|3|Activa|
-|14|Mixins|11|Activa|
+|Tarea 04|Uso de las Clases Abstractas en el caso de estudio|10|Finalizada|
+|13|Aserciones|3|Finalizada|
+|14|Mixins|11|Finalizada|
+|15|Futures|5|Activa|
 
 ## LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
