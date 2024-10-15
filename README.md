@@ -25,9 +25,10 @@ por el M.T.I Marco A. Ramírez Hernández
 |13|Aserciones|3|Finalizada|
 |14|Mixins|11|Finalizada|
 |15|Futures|5|Activa|
-|16|Try Catch|5|Activa|
+|16|Asyc-Await|5|Activa|
+|16|Try Catch|6|Activa|
 |17|Streams|6|Activa|
-|18|Stream Await|6|Activa|
+|18|Stream Await|4|Activa|
 
 ## LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
